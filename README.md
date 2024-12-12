@@ -1,7 +1,7 @@
 ### Hi there ‼️  👋 🥰
 
 - 🎓 My name is Tania Oliveira, a Software Engineering student.
-- 💼 Freelancer at 1000-Farmers.
+- 💼 Freelancer Developer Frontend and Backend at 1000-Farmers.
 - 🌱 Programming student since 2021, currently studying CET Networks.
 - ☁️ Enthusiast of Azure and AI modeling.
 - 🤩 Fun fact: Gym addict!
