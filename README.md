@@ -1,10 +1,11 @@
 ### Hi there ‼️  👋 🥰
 
-- 🎓 My name is Tania Oliveira, a Software Engineering student.
-- 💼 Freelancer Developer Frontend and Backend at 1000-Farmers.
-- 🌱 Programming student since 2021, currently studying CET Networks.
-- ☁️ Enthusiast of Azure and AI modeling.
-- 🤩 Fun fact: Gym addict!
+- 🎓 My name is **Tania Oliveira**, a Software Engineering student — graduating in **2026**.  
+- 💼 Freelancer Developer Frontend and Backend at **1000-Farmers**.  
+- 🌐 Already graduated from **CET in Networks**.  
+- 🌱 Programming student since 2021.  
+- ☁️ Enthusiast of **Azure** and **AI modeling**.  
+- 🤩 Fun fact: **Gym addict!**
 
 <div align="center">
   <a href="https://github.com/TaniaElizaOliveira">
@@ -13,12 +14,10 @@
   </a>
 </div>
 
-
 <div align="center">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 </div>
-
