@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/TaniaElizaOliveira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaniaElizaOliveira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaniaElizaOliveira&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&token=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"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniaElizaOliveira&layout=compact&langs_count=7&theme=gruvbox"/>
   </a>
 </div>
