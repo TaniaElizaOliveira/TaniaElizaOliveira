@@ -13,8 +13,9 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!-- Adicione mais ícones aqui se necessário -->
 </div>
 
 
